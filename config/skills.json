@@ -1,0 +1,103 @@
+{
+  "Programming": [
+    "Python", "Java", "C", "C++", "C#", "JavaScript", "TypeScript", "R",
+    "Go", "Rust", "Ruby", "PHP", "Swift", "Kotlin", "Scala", "Visual Basic",
+    "VBA", "Perl", "Shell Scripting", "Bash"
+  ],
+  "Data": [
+    "SQL", "Excel", "Power BI", "Tableau", "Pandas", "NumPy", "Matplotlib",
+    "Seaborn", "SPSS", "SAS", "Data Analysis", "Data Visualization",
+    "Business Intelligence", "ETL", "Data Warehousing", "Hadoop", "Spark"
+  ],
+  "Machine Learning": [
+    "Machine Learning", "Deep Learning", "NLP", "Computer Vision",
+    "Scikit-learn", "TensorFlow", "PyTorch", "XGBoost", "Natural Language Processing",
+    "Predictive Modeling", "Statistical Analysis", "Neural Networks"
+  ],
+  "Cloud": [
+    "AWS", "Azure", "GCP", "Google Cloud", "Amazon Web Services",
+    "Cloud Computing", "Azure DevOps", "Lambda", "S3", "EC2"
+  ],
+  "Databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Oracle", "SQL Server",
+    "SQLite", "Redis", "NoSQL", "Database Management", "Database Design"
+  ],
+  "DevOps": [
+    "Docker", "Kubernetes", "Git", "GitHub", "Jenkins", "CI/CD",
+    "DevOps", "Terraform", "Ansible", "Linux", "Unix", "Agile", "Scrum"
+  ],
+  "Web": [
+    "HTML", "CSS", "React", "Node.js", "Django", "Flask", "Angular",
+    "Vue.js", "REST API", "Web Development", "Frontend", "Backend",
+    "Full Stack", "ASP.NET", "Spring Boot"
+  ],
+  "HR": [
+    "Human Resources Management", "Talent Acquisition", "Recruitment",
+    "Employee Relations", "Performance Management", "Compensation and Benefits",
+    "HRIS", "HR Analytics", "Organizational Development", "Change Management",
+    "Training and Development", "Succession Planning", "Employment Law",
+    "Onboarding", "Payroll", "Benefits Administration", "Labor Relations",
+    "Workday", "ADP", "PeopleSoft", "FMLA", "EEO", "Employee Engagement",
+    "Conflict Resolution", "HR Policies", "Workforce Planning"
+  ],
+  "Finance": [
+    "Financial Analysis", "Accounting", "Budgeting", "Forecasting",
+    "Financial Reporting", "QuickBooks", "SAP", "Auditing", "Tax",
+    "Accounts Payable", "Accounts Receivable", "General Ledger",
+    "Financial Modeling", "Risk Management", "Compliance", "GAAP"
+  ],
+  "Marketing": [
+    "Digital Marketing", "SEO", "SEM", "Social Media Marketing",
+    "Content Marketing", "Email Marketing", "Google Analytics",
+    "Marketing Strategy", "Brand Management", "Market Research",
+    "Campaign Management", "CRM", "Salesforce"
+  ],
+  "Healthcare": [
+    "Patient Care", "Medical Billing", "ICD-9", "ICD-10", "CPT",
+    "HIPAA", "Electronic Health Records", "EHR", "Clinical Research",
+    "Healthcare Administration", "Nursing", "Pharmacy"
+  ],
+  "Project Management": [
+    "Project Management", "PMP", "MS Project", "Stakeholder Management",
+    "Risk Management", "Process Improvement", "Six Sigma", "Lean Manufacturing",
+    "Quality Assurance", "Vendor Management", "Contract Management"
+  ],
+  "Soft Skills": [
+    "Communication", "Leadership", "Teamwork", "Problem Solving",
+    "Critical Thinking", "Time Management", "Customer Service",
+    "Interpersonal Skills", "Presentation Skills", "Negotiation",
+    "Decision Making", "Analytical Skills", "Attention to Detail"
+  ],
+  "Office Tools": [
+    "Microsoft Office", "Microsoft Word", "Microsoft Excel",
+    "Microsoft PowerPoint", "Microsoft Outlook", "Microsoft Access",
+    "Microsoft Visio", "SharePoint", "Google Workspace", "Lotus Notes"
+  ],
+  "Design": [
+    "Adobe Photoshop", "Adobe Illustrator", "Adobe InDesign",
+    "Graphic Design", "UI Design", "UX Design", "Figma", "Sketch",
+    "Web Design", "Video Editing", "Final Cut Pro"
+  ],
+  "Sales": [
+    "Sales", "Business Development", "Lead Generation", "CRM",
+    "Account Management", "Client Relations", "B2B Sales", "B2C Sales",
+    "Sales Strategy", "Pipeline Management"
+  ],
+  "Legal": [
+    "Legal Research", "Contract Law", "Compliance", "Paralegal",
+    "Litigation", "Corporate Law", "Intellectual Property"
+  ],
+  "Education": [
+    "Curriculum Development", "Instructional Design", "Teaching",
+    "Training", "E-Learning", "Educational Technology"
+  ],
+  "Engineering": [
+    "AutoCAD", "SolidWorks", "MATLAB", "CAD", "Mechanical Engineering",
+    "Electrical Engineering", "Civil Engineering", "Quality Control",
+    "Manufacturing", "Process Engineering"
+  ],
+  "Security": [
+    "Cybersecurity", "Information Security", "Network Security",
+    "Penetration Testing", "SIEM", "Firewall", "ISO 27001", "SOC"
+  ]
+}
